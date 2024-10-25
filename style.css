@@ -6,4 +6,9 @@ body {
 
 h1 {
     font-family: sans-serif;
+  border-style: solid; 
+}
+
+h2 {
+   font-family: sans-serif;
 }
