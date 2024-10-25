@@ -9,6 +9,9 @@ h1 {
   border-style: solid; 
 }
 
+hr {
+  background-color: #fff2fe;
+
 h2 {
    font-family: sans-serif;
 }
