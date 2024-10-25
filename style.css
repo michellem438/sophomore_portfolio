@@ -1,3 +1,9 @@
 body {
   background-color: #fff2fe;
+  text-align: center; 
+  color:#ba3bba;
+}
+
+h1 {
+    font-family: sans-serif;
 }
