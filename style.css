@@ -8,10 +8,8 @@ h1 {
     font-family: sans-serif;
 }
 
-hr {
-  background-color: #fff2fe;
-  color:#cc73bb;
-}
+<hr style="color:#cc73bb">
+
 
 h2 {
    font-family: sans-serif;
