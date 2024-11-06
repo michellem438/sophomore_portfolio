@@ -6,11 +6,12 @@ body {
 
 h1 {
     font-family: sans-serif;
-  border-style: solid; 
 }
 
 hr {
   background-color: #fff2fe;
+  color:#cc73bb
+}
 
 h2 {
    font-family: sans-serif;
