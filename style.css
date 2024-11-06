@@ -10,9 +10,13 @@ h1 {
 
 hr {
   background-color: #fff2fe;
-  color:#cc73bb
+  color:#cc73bb;
 }
 
 h2 {
+   font-family: sans-serif;
+}
+
+h3 {
    font-family: sans-serif;
 }
