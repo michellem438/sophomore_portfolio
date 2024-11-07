@@ -18,7 +18,7 @@ h2 {
 hr {
   color: #000000;
   border-style: inset; 
-  border-width: 4;
+  border-width: 4 px;
 }
 
 h3 {
@@ -30,6 +30,6 @@ h3 {
 p {
   text-align: left;
   font-family: sans-serif;
-  font-size: 14;
-  width: 750;
+  font-size: 14 px;
+  width:600 px;
 }
