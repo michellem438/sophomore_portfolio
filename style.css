@@ -27,6 +27,16 @@ h3 {
    text-align: left;
 }
 
+img {
+  float: right;
+  width: 200 px;
+  height: 165 px;
+  margin: 10 px;
+  border-color: #ef82c1;
+  border-width: 6 px;
+  border-style: dotted;
+  border-radius: 10 px;
+}
 p {
   text-align: left;
   font-family: sans-serif;
