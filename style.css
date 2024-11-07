@@ -1,11 +1,11 @@
 body {
   background-color: #FFDBE9;
-  text-align: center; 
   color:#000000;
 }
 
 h1 {
     font-family: sans-serif;
+    color:#000000;
 }
 
 <hr style="color:#000000;">
@@ -13,9 +13,11 @@ h1 {
 
 h2 {
    font-family: sans-serif;
+   color: #000000;
 }
 
 h3 {
    font-family: sans-serif;
+   color: #000000; 
    text-align: left;
 }
