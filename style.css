@@ -17,6 +17,8 @@ h2 {
 
 hr {
   color: #000000;
+  border-style: inset; 
+  border-width: 4;
 }
 
 h3 {
