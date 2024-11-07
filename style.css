@@ -20,3 +20,11 @@ h3 {
    color: #000000; 
    text-align: left;
 }
+
+p {
+  text-align: left;
+  font-family: sans-serif;
+  background-color: #febfd7; 
+  font-size: 14px;
+  width: 750px:
+}
