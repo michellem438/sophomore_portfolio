@@ -1,0 +1,11 @@
+img {
+  float: center;
+  align-items: space-around; 
+  width: 180px;
+  height: 155ppx;
+  margin: 10px;
+  border-color: #ef82c1;
+  border-width: 6px;
+  border-style: dotted;
+  border-radius: 10px;
+}
