@@ -4,17 +4,17 @@ body {
 }
 
 h1 {
-    .imperial-script-regular {
   font-family: "Imperial Script", cursive;
   font-weight: 400;
+  font-size:120px;
   font-style: normal;
   text-align: center;
 }
 
 h2 {
-  .imperial-script-regular {
   font-family: "Imperial Script", cursive;
   font-weight: 400;
+  font-size: 120px;
   font-style: normal;
   text-align: center;
 }
